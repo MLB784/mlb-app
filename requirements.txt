@@ -1,5 +1,2 @@
 streamlit
-python-telegram-bot
-requests
 pandas
-numpy
